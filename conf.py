@@ -52,7 +52,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'architecture-and-design'
-copyright = u'2015, Matthew Pease'
+copyright = u'2015, Land Registry'
 author = u'Matthew Pease'
 
 # The version info for the project you're documenting, acts as replacement for

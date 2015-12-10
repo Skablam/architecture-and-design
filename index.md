@@ -8,3 +8,5 @@ There is also a page dedicated to common [patterns and solutions](patterns/patte
 ### Services
 
 ###### [Digital Mortgage](services/digital-mortgage.html)
+
+###### [Digital Mortgage Processing](services/digital-mortgage-processing.html)
